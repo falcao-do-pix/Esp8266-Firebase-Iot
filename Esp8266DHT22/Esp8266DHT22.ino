@@ -9,10 +9,6 @@
 #define WIFI_PASSWORD "SENHA DA REDE"  
 
 #define DPIN 4        // Definindo o pino DHT sensor (GPIO) D2
-#define WIFI_SSID "Jefferson D. Lima"                                  
-#define WIFI_PASSWORD "morridopato"  
-
-#define DPIN 4        // Definindo o pino DHT sensor (GPIO) D2
 #define DTYPE DHT22   // Usando o DHT22
 
 DHT dht(DPIN, DTYPE);
