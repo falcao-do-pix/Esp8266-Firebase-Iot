@@ -21,8 +21,7 @@ DHT dht(DHTPIN, DHTTYPE);
 #define WIFI_SSID "Jefferson D. Lima"
 #define WIFI_PASSWORD "morridopato"
 
-// Insert Firebase project API Key
-#define API_KEY "AIzaSyAvOkpW0QAPOwlOSBGfGERG9M97QmPeCo4"
+// Insert Firebase project A##########
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://esp8266-iot-test1-default-rtdb.firebaseio.com/" 
